@@ -29,7 +29,7 @@ pip install -r requirements.txt
 | `make_figures.py`, `make_pub_figures.py` | Figures from the stored results (written to `paper/`) | Figs. 4–13 |
 | `emrald/SDC_midloop_benchmarkB.emrald.json` | EMRALD model of benchmark configuration B | Section 6 |
 | `emrald/build_emrald_model.py` | Generates the EMRALD model from the same parameters | Section 6 |
-| `emrald/emrald_results.json`, `emrald/compare_emrald.py` | EMRALD result ($10^4$ histories) and the two-proportion test | Table 7 |
+
 | `emrald/emrald_emulator.py`, `emrald/emrald_emulator.json` | Effect of EMRALD's fixed update interval | Suppl. Table S9 |
 
 ## Usage
