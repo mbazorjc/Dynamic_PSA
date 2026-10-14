@@ -26,7 +26,7 @@ pip install -r requirements.txt
 | `pub_runs.py cond \| epi \| streams` | Conditional results, uncertainty and sensitivity, replicate streams | Table 6, Figs. 9–12, Suppl. Fig. S1 |
 | `dft_vs_mc.py` | Static and dynamic fault-tree comparators | Table 7, Suppl. Table S7 |
 | `subset_simulation.py` | Subset simulation on the hardware-and-operator sub-model | Table 7 |
-| `make_figures.py`, `make_pub_figures.py` | Figures from the stored results (written to `paper/`) | Figs. 4–13 |
+
 | `emrald/SDC_midloop_benchmarkB.emrald.json` | EMRALD model of benchmark configuration B | Section 6 |
 | `emrald/build_emrald_model.py` | Generates the EMRALD model from the same parameters | Section 6 |
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 python run_verification.py          
 python run_items.py main            
 python pub_runs.py cond             
-python make_pub_figures.py
+
 ```
 
 The EMRALD model runs with the EMRALD solve engine (Idaho National Laboratory,
