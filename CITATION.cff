@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "Dynamic probabilistic risk assessment of shutdown cooling using a thermohydraulically coupled Markov model"
+authors:
+  - family-names: Mbazor
+    given-names: Jeremiah Chinonso
+    email: jeresuccess@gmail.com
+  - family-names: Okafor
+    given-names: Peter Ebuka
+  - family-names: Adibeli
+    given-names: Justina Onyinyechukwu
+  - family-names: Ekedegwa
+    given-names: Anthony
+version: "1.0.0"
+date-released: "2026-10-21"
